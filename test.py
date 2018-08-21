@@ -15,5 +15,4 @@ if len(sys.argv)!=2:
 longurl = sys.argv[1]
 
 response = b.shorten(longurl=longurl)
-
 print(response['url'])
