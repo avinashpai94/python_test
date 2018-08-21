@@ -1,5 +1,4 @@
 from random_words import RandomWords
-import regex as re
 
 
 def fetch_word():
